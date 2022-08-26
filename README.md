@@ -2,6 +2,7 @@
 protocol for new Yttri-ers doing closed-loop stim
 
 ### open anaconda prompt and set up conda environment (on wartooth)
+![Anaconda prompt](./figs/anaconda.png)
 `conda activate DLC-GPU_2`
 
 ### navigate to DeepLabStream directory
@@ -11,7 +12,7 @@ protocol for new Yttri-ers doing closed-loop stim
 `python app.py`
 
 (optional) if you want to adjust settings, open settings.ini in DeepLabStream folder
-
+![settings.ini](./figs/settings.png)
 ### open camera (make sure it's not opened up elsewhere like in OBS)
 click on start stream
 
