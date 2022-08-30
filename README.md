@@ -5,8 +5,8 @@ protocol for new Yttri-ers doing closed-loop stim
 ![Anaconda prompt](./figs/anaconda.png)
 `conda activate DLC-GPU`
 
-### navigate to DeepLabStream directory
-`cd DeepLabStream`
+### navigate to DeepLabStream directory (D:/DeepLabStream)
+`pushd D:/DeepLabStream`
 
 ### run DeepLabStream UI
 `python app.py`
