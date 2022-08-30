@@ -1,9 +1,9 @@
 # realtime-stim-protocol
 protocol for new Yttri-ers doing closed-loop stim
 
-### open anaconda prompt and set up conda environment (on wartooth)
+### open anaconda prompt and set up conda environment (on jimi)
 ![Anaconda prompt](./figs/anaconda.png)
-`conda activate DLC-GPU_2`
+`conda activate DLC-GPU`
 
 ### navigate to DeepLabStream directory
 `cd DeepLabStream`
